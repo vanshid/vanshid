@@ -17,7 +17,7 @@
   </ul>
   
   <ul>
-- 📫 How to reach me: https://twitter.com/VmasklikeDybala || https://www.linkedin.com/in/vanshid/
+- 📫 How to reach me: https://twitter.com/letscodeV || https://www.linkedin.com/in/vanshid/
   </ul>
   
   
