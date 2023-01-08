@@ -20,9 +20,6 @@
 - 📫 How to reach me: https://twitter.com/VmasklikeDybala || https://www.linkedin.com/in/vanshid/
   </ul>
   
-  <ul>
-- 😄 Pronouns: she/her
-  </ul>
   
   <ul>
 - ⚡ Fun fact: I love wine while coding and whiskey for fixing the code :P 
