@@ -6,13 +6,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love wine while coding and whiskey for fixing the code :P 
 
-<!--
-**vanshid/vanshid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
--->
