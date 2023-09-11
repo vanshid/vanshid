@@ -1,6 +1,6 @@
 <h1> Hola, I am V </h1> 
 
-<b>  I am a WEB Developer  👋 <b>
+<b>  I am a Technical Lead  👋 <b>
  
  <li>
   
