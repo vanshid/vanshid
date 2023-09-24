@@ -5,15 +5,15 @@
  <li>
   
   <ul>
- 🔭 I’m currently working on Salesforce
+ 🔭 I have worked on SFCC
   </ul>
   
   <ul>
-- 🌱 I’m currently working on JS (Node Js, React Js), Python (Django, Flask and Tensorflow)
+- 🌱 I have worked on JS (Node Js, React Js), Python (Django, Flask and Tensorflow)
   </ul>
   
   <ul>
-- 👯 I’m looking to collaborate on Python, JS, Salesforce and PM.
+- 👯 I’m looking to collaborate on Co-Founder, Consultant & PM.
   </ul>
   
   <ul>
