@@ -9,7 +9,7 @@
   </ul>
   
   <ul>
-- 🌱 I have worked on JS (Node Js, React Js), Python (Django, Flask and Tensorflow)
+- 🌱 I have worked on JS & Python (Django, Flask and Tensorflow)
   </ul>
   
   <ul>
