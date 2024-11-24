@@ -14,7 +14,12 @@
 <p> [Portfolio](https://vanshid.pythonanywhere.com) </p>
 
 ---
+### **Lifestyle & Extracurriculars:**
 
+- 💪 **Fitness Enthusiast**: I work out every day and enjoy running to stay fit and clear my mind.
+- 🌌 **Extracurricular Learning**: Outside of tech, I am passionate about **Astronomy**, **History**, and **Physics** — constantly learning new things in these fields to broaden my perspective.
+
+---
 ### **Skills & Expertise:**
 
 - **Tech Stack**: 
