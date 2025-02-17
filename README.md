@@ -21,24 +21,45 @@
 
 ---
 ### **Skills & Expertise:**
+### 📋 **Product Management Tools**
+- **JIRA** | **Trello** | **Asana**: Managing product roadmaps, sprint planning, and backlog refinement to ensure the team stays on track.
+- **Aha!**: Prioritizing and tracking features, ensuring alignment with business objectives and key deliverables.
+- **Confluence**: Writing detailed product documentation, including **PRDs**, **BRDs**, and **FRDs**, ensuring clarity across all stakeholders.
+- **Figma**: Collaborating with design teams to turn product vision into user-centric designs and prototypes.
 
-- **Tech Stack**: 
-  - **Frontend**: JavaScript, HTML/CSS (SASS), Web3.js  
-  - **Backend**: Python (Django, Flask), SQL, MongoDB  
-  - **Machine Learning**: TensorFlow, Keras, OpenCV, Numpy, Pandas  
-  - **Web3**: Tokenization, NFTs, Crypto  
-  - **Networking**: Cisco Packet Tracer, Wireshark, DHCP Configuration, Cable Making  
-  - **Cloud**: Google Cloud Platform (GCP), Salesforce  
+### ⚙️ **Development & Collaboration Tools**
+- **GitHub** | **GitLab**: Supporting development teams in version control, code reviews, and ensuring smooth deployment pipelines.
+- **Slack** | **Teams**: Facilitating communication across cross-functional teams, sharing updates, feedback, and managing product discussions in real time.
+- **Zoom** | **Google Meet**: Conducting virtual meetings to align teams and discuss product strategies, user feedback, and feature priorities.
 
-- **Tools & Methodologies**:
-  - **Project Management**: Agile (Scrum, Kanban), JIRA, GitHub, Bitbucket  
-  - **Product Development**: PRD, BRD, FRD, UX Design with Figma  
-  - **CI/CD**: Continuous Integration, Deployment Strategy  
+### 📊 **Analytics & Product Insights**
+- **Google Analytics** | **Mixpanel** | **Amplitude**: Monitoring and analyzing user behavior to gather actionable insights for data-driven decision-making.
+- **Hotjar** | **FullStory**: Using user behavior analytics to improve the user experience and identify areas for product improvement.
+- **Customer Feedback**: Leveraging surveys and direct user interviews to ensure the product is solving real-world problems.
 
-- **Cross-Functional Leadership**: Extensive experience in **Product Strategy**, **Team Leadership**, and **Stakeholder Management** across **eCommerce**, **eSports**, and **FinTech** domains.
+### 🧠 **AI/ML & Blockchain Tools (Collaboration Focus)**
+- **TensorFlow** | **Keras** | **Scikit-learn**: Collaborating with engineering teams to integrate AI models that enhance product functionality (e.g., personalization, recommendations).
+- **Blockchain** | **Smart Contracts (Ethereum, Solana)**: Working with Web3 teams to explore new features and decentralized solutions (NFTs, Tokenization).
+- **Google Cloud Platform (GCP)** | **AWS**: Ensuring that the product is scalable, secure, and deployable in cloud environments.
+
+### 🛠 **Continuous Improvement & Process Tools**
+- **CI/CD Pipelines**: Ensuring smooth deployment of product features and reducing development cycle time through efficient integration and continuous delivery.
+- **Git** | **GitHub Actions**: Managing version control and automating deployments to streamline the development lifecycle.
 
 ---
 
-🔗 **Let’s build something cool!** 🚀
+## 🔥 Key Accomplishments
+- **Increased conversion rates by 25%** for a global e-commerce platform by overseeing product enhancements and technical integrations.
+- **Led a team of engineers** to build and launch a blockchain-based NFT marketplace, driving product adoption in the Web3 space.
+- **Introduced machine learning algorithms** for personalized content delivery, resulting in a 15% increase in user engagement.
+- **Successfully implemented agile frameworks**, improving delivery times and fostering better communication across teams.
+
+---
+
+## 🔗 Let's Build Something Amazing Together! 🚀
+
+---
+
+ **Thanks for visiting my github** 
 
 
