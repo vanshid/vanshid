@@ -2,11 +2,10 @@
 
 # Hi, I'm Vanshi Dalal 👋
 
-### Technical Product Manager · 5+ Years · Builder → PM
+### Technical Product Manager · Builder → Strategist → Researcher
 
-I spent three years shipping production code before moving into product —
-which is why I still own the parts most PMs hand off: API contracts, data models,
-retrieval quality, cutover sequencing.
+Three years writing production code, then a move into product — I still hold the API contracts,
+the data model, and the research that should happen before either of those exists.
 
 `📍 Ahmedabad, IN` &nbsp;·&nbsp; `🎓 MBA, IIT Patna` &nbsp;·&nbsp; `📬 vanshid1904@gmail.com`
 
@@ -19,76 +18,76 @@ retrieval quality, cutover sequencing.
 
 ---
 
-## Currently
-
-**Technical Product Manager @ Nexplay Secure** — replatforming a legacy sports & membership system, and shipping LLM-based natural-language search across membership, program and policy content.
+### 🎯 Operating Principles
 
 ```
-Domain     → Sports/membership platforms, cybersecurity & managed network infra (US clients)
-Focus      → Retrieval quality, migration sequencing, integration contracts, converged NOC+SOC product work
-Principle  → Below a confidence threshold: ranked links, not a generated answer.
-             A wrong answer about eligibility costs more than no answer.
+Discovery     → not a phase before building — a standing weekly practice
+Sequencing    → highest member/user risk first, convenience last
+Specs         → integration contracts + failure modes written in, not bolted on
+Metrics       → acceptance & correctness > raw volume; attributable lift > vanity numbers
+Posture       → sit between client, engineering, security/infra, and research — translate, don't pick a side
 ```
 
----
-
-## 🧠 How I Work
-
-- **I ship AI features like a systems PM, not a demo builder.** Chunking strategy, metadata filters, golden-question regression suites, confidence floors, hallucination guardrails — retrieval quality is a spec item, not a launch-day surprise.
-- **I sequence by risk, not convenience.** On the current replatform: registration and renewals migrate first, reporting and admin tooling last — because that's where member-facing risk actually lives.
-- **I run discovery as infrastructure, not a phase.** Weekly practitioner calls, an opportunity-solution tree per quarterly outcome, and assumption tests *before* engineering commits. A concierge test once killed a rules-engine build that would've eaten a full quarter.
-- **I write integration failure modes into the spec** — auth flows, field mappings, idempotency on retries, third-party downtime — not into a bug ticket three sprints later.
-- **I sit close enough to security/infra to be useful.** SD-WAN, managed Wi-Fi, firewall/endpoint policy, MDR/EDR, IAM, Zero Trust/SASE — the real work is triage: performance issue, config drift, or an actual event.
+> A concierge test once told me a rules-engine build wasn't worth a quarter of the team's time — before we spent it.
 
 ---
 
-## 📈 Track Record
+### 🧭 Career at a Glance
 
-| | |
-|---|---|
-| **Nexplay Secure** *(Sep 2025 – Present)* | Owning end-to-end replatform of a legacy membership/sports system; shipped RAG-based search with a golden-question regression suite gating every release |
-| **Makse Group** *(May 2024 – Sep 2025)* | Owned roadmap + delivery across 2 squads for Workday Marketplace Finance/HCM apps; shipped automated approval workflows with cost-center rules & audit logging |
-| **Astound Digital** *(Aug 2021 – Apr 2024)* | Built & owned 7 storefront modules (cart, PDP, checkout, returns, profile, support, gifting) for Skechers, Nike & Under Armour; integrated Apple Pay/Razorpay/Stripe at sub-1% failure targets |
-| **IIHT** *(Jan 2021 – Jun 2021)* | CNN image classifier (TensorFlow/Keras) deployed on GCP behind a Flask + SQL real-time inference pipeline |
+<div align="center">
 
----
+| Company | Role | Period | Core Focus |
+|---|---|---|---|
+| **Nexplay Secure** | Technical PM | 2025 – Present | Legacy sports/membership replatform · AI-assisted search · cybersecurity & network infra |
+| **Makse Group** | Technical PM | 2024 – 2025 | Workday Marketplace Finance/HCM apps · 2-squad roadmap & delivery |
+| **Astound Digital** | Software Engineer | 2021 – 2024 | E-commerce for Nike, Skechers, Under Armour · 7 storefront modules end-to-end |
+| **IIHT** | Jr. Software Engineer | 2021 | CNN classifier on GCP · Flask + SQL inference pipeline |
 
-## 🧰 Toolkit
-
-**Discovery & Research**
-`JTBD & switch interviews` `Opportunity-solution trees` `Assumption mapping` `Concierge / Wizard-of-Oz tests` `Kano` `Survey design`
-
-**AI Product**
-`RAG & retrieval design` `Chunking & metadata filtering` `Reranking` `Eval sets & regression suites` `Hallucination guardrails` `Confidence fallbacks` `Human-in-the-loop review` `Cost/latency trade-offs`
-
-**Delivery & Frameworks**
-`Scrum` `Kanban` `RICE` `MoSCoW` `WSJF` `OKRs` `Story mapping` `PRDs & technical decision records` `API specs`
-
-**Data & Analytics**
-`GA4` `Amplitude` `Metabase` `Power BI` `SQL` `A/B testing` `Funnel & cohort analysis` `HEART`
-
-**Hands-On**
-`Python` `Flask` `Django` `JavaScript` `MongoDB` `GCP` `TensorFlow` `REST API design`
-
-**Tools**
-`Jira` `Confluence` `Notion` `ClickUp` `Asana` `Figma` `Miro` `Hotjar` `FullStory`
+</div>
 
 ---
 
-## 🎓 Education
+### 🔍 What Each Chapter Actually Taught Me
 
-- **MBA, International Business & Finance** — IIT Patna *(2022–2027, pursuing; focus on generative AI and business strategy)*
-- **M.Sc., Computer Application & IT** — Indus University *(CGPA 9.75)* — IoT GPS tracking system (Raspberry Pi, UART) adopted by 3 schools
-- **B.Sc., Computer Application & IT** — Indus University *(CGPA 8.5)* — E-commerce/delivery management system; LMS (Django, MongoDB) for 300+ users
+**Nexplay Secure** — Owning a full legacy-system replatform end to end, sequenced by member-facing risk rather than module convenience. Discovery runs as a standing practice — weekly calls with club admins and registrars, an opportunity-solution tree per quarterly outcome — not a phase that ends when engineering starts.
+
+**Makse Group** — Owned roadmap + delivery across two squads. The research loop — workflow shadowing, stakeholder interviews, funnel analysis — decided what got built next, and just as often, what got cut.
+
+**Astound Digital** — Built and owned 7 storefront modules across the full stack. Ran the A/B tests behind checkout changes myself, owning the hypothesis and instrumentation, not just the code — measured on completed checkouts, not click-throughs.
+
+**IIHT** — The first version of a habit that stuck: build the whole thing end-to-end, not just the ticket.
 
 ---
 
-## 📬 Let's Connect
+### 🛠️ Toolkit
 
-Open to conversations on AI product strategy, RAG/retrieval systems, technical product leadership, and sports-tech/security platforms.
+<table>
+<tr><td><b>Strategy & Research</b></td><td><code>JTBD & switch interviews</code> <code>Opportunity-solution trees</code> <code>Assumption mapping</code> <code>Concierge / Wizard-of-Oz tests</code> <code>Kano</code> <code>Survey design</code></td></tr>
+<tr><td><b>Delivery & Frameworks</b></td><td><code>Scrum</code> <code>Kanban</code> <code>RICE</code> <code>MoSCoW</code> <code>WSJF</code> <code>OKRs</code> <code>Story mapping</code> <code>PRDs & tech decision records</code> <code>API specs</code></td></tr>
+<tr><td><b>Data & Experimentation</b></td><td><code>GA4</code> <code>Amplitude</code> <code>Metabase</code> <code>Power BI</code> <code>SQL</code> <code>A/B testing</code> <code>Funnel & cohort analysis</code> <code>HEART</code></td></tr>
+<tr><td><b>AI Product</b></td><td><code>RAG & retrieval design</code> <code>Chunking & metadata filtering</code> <code>Eval sets & regression suites</code> <code>Confidence fallbacks</code> <code>Human-in-the-loop review</code></td></tr>
+<tr><td><b>Hands-On Technical</b></td><td><code>Python</code> <code>Flask</code> <code>Django</code> <code>JavaScript</code> <code>MongoDB</code> <code>GCP</code> <code>TensorFlow</code> <code>REST API design</code></td></tr>
+<tr><td><b>Tools</b></td><td><code>Jira</code> <code>Confluence</code> <code>Notion</code> <code>ClickUp</code> <code>Asana</code> <code>Figma</code> <code>Miro</code> <code>Hotjar</code> <code>FullStory</code></td></tr>
+</table>
+
+---
+
+### 🎓 Education
+
+- **MBA, International Business & Finance** — IIT Patna *(2022–2027, pursuing · focus on generative AI & business strategy)*
+- **M.Sc., Computer Application & IT** — Indus University *(CGPA 9.75)* — IoT GPS tracking system (Raspberry Pi, UART), adopted by 3 schools
+- **B.Sc., Computer Application & IT** — Indus University *(CGPA 8.5)* — E-commerce/delivery management system · LMS (Django, MongoDB) for 300+ users
+
+---
+
+<div align="center">
+
+### 📬 Let's Connect
+
+Open to conversations on product strategy, technical product leadership, AI product development, and research-driven discovery.
 
 📧 **vanshid1904@gmail.com** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/vanshid/)** &nbsp;|&nbsp; 🌐 **[Portfolio](https://vanshid.pythonanywhere.com)**
 
-<div align="center">
 <sub>Building products is not about shipping features — it's about creating value at scale.</sub>
+
 </div>
