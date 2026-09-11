@@ -10,7 +10,7 @@ the data model, and the research that should happen before either of those exist
 `📍 Ahmedabad, IN` &nbsp;·&nbsp; `🎓 MBA, IIT Patna` &nbsp;·&nbsp; `📬 vanshid1904@gmail.com`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshid/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-black?style=flat-square&logo=googlechrome&logoColor=white)](https://vanshid.pythonanywhere.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-black?style=flat-square&logo=googlechrome&logoColor=white)](https://vanshid.space/)
 [![Medium](https://img.shields.io/badge/Medium-read-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@vanshid)
 [![Substack](https://img.shields.io/badge/Substack-subscribe-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@vanshid)
 
